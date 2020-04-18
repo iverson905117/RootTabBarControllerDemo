@@ -1,5 +1,5 @@
 //
-//  ProductViewController.swift
+//  ShoppingViewController.swift
 //  RootTabBarControllerDemo
 //
 //  Created by 康志斌 on 2020/4/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ProductViewController: UIViewController {
+class ShoppingViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
